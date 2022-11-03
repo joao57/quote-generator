@@ -1,7 +1,6 @@
-# quote-generator
+# Getting Started with Create React App  :desktop_computer: :speech_balloon: :globe_with_meridians:
 
-# Getting Started with Create React App
-
+Creating a Quote Generator!
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
